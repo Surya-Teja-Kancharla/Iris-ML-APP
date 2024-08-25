@@ -33,17 +33,11 @@ cd Iris-ML-APP</code></pre>
 
 <h2>Usage</h2>
 <p>Once all dependencies are installed, you can run the application with the following command:</p>
-<pre><code>streamlit run app.py</code></pre>
+<pre><code>streamlit run iris.py</code></pre>
 <p>This will start a local server, and you can interact with the Iris classification app in your browser.</p>
 
 <h2>About the Dataset</h2>
 <p>The Iris dataset is a classic dataset in machine learning, consisting of 150 samples from each of three species of Iris flowers (<em>Iris setosa</em>, <em>Iris virginica</em>, and <em>Iris versicolor</em>). Four features are measured from each sample: the lengths and the widths of the sepals and petals.</p>
-
-<h2>Contributing</h2>
-<p>Contributions are welcome! Please feel free to submit a Pull Request.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Live Demo</h2>
 <p>You can try out the app <a href="https://iris-ml-app-vrsj88reegwdchgaetftzc.streamlit.app/">here</a>.</p>
